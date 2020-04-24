@@ -52,7 +52,7 @@ A: It encrypts the password so it takes longer to decode.
 
 - [ ] What are the three parts of the JSON Web Token?
 
-A: The secret, 
+A: The secret, payload, options
 
 ## Minimum Viable Product
 
